@@ -1,0 +1,48 @@
+[
+
+    {
+        "batch_id": "bh1",
+        "Batch": "Jan, 2023",
+        "course_id": "c1"
+    },
+    {
+        "batch_id": "bh2",
+        "Batch": "Apr, 2023",
+        "course_id": "c2"
+    },
+    {
+        "batch_id": "bh3",
+        "Batch": "Jun, 2023",
+        "course_id": "c3"
+    },
+    {
+        "batch_id": "bh4",
+        "Batch": "Dec, 2023",
+        "course_id": "c4"
+    },
+    {
+        "batch_id": "bh5",
+        "Batch": "May, 2024",
+        "course_id": "c5"
+    },
+    {
+        "batch_id": "bh6",
+        "Batch": "Jul, 2024",
+        "course_id": "c6"
+    },
+    {
+        "batch_id": "bh7",
+        "Batch": "Nov, 2024",
+        "course_id": "c7"
+    },
+    {
+        "batch_id": "bh8",
+        "Batch": "Jun, 2023",
+        "course_id": "c1"
+    },
+    {
+        "batch_id": "bh9",
+        "Batch": "Dec, 2023",
+        "course_id": "c2"
+    }
+]

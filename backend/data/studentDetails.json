@@ -1,0 +1,83 @@
+[
+    {
+        "student_course_id": "sc1",
+        "course_id": "c1",
+        "Student_Id": "123",
+        "Batch": "bh1",
+        "status": "completed",
+        "Enrollment_Code": "SA/3/26/25857",
+        "bootcamp_id": "Bt1"
+    },
+    {
+        "student_course_id": "sc2",
+        "course_id": "c2",
+        "Student_Id": "123",
+        "Batch": "bh2",
+        "status": "continue",
+        "Enrollment_Code": "SA/3/26/25858",
+        "bootcamp_id": "Bt1"
+    },
+    {
+        "student_course_id": "sc3",
+        "course_id": "c3",
+        "Student_Id": "123",
+        "Batch": "bh3",
+        "status": "pause",
+        "Enrollment_Code": "SA/3/26/25859",
+        "bootcamp_id": "Bt1"
+    },
+    {
+        "student_course_id": "sc4",
+        "course_id": "c4",
+        "Student_Id": "123",
+        "Batch": "bh4",
+        "status": "pause",
+        "Enrollment_Code": "SA/3/26/25860",
+        "bootcamp_id": "Bt1"
+    },
+    {
+        "student_course_id": "sc5",
+        "course_id": "c5",
+        "Student_Id": "123",
+        "Batch": "bh5",
+        "status": "continue",
+        "Enrollment_Code": "SA/3/26/25861",
+        "bootcamp_id": "Bt1"
+    },
+    {
+        "student_course_id": "sc6",
+        "course_id": "c6",
+        "Student_Id": "123",
+        "Batch": "bh6",
+        "status": "pause",
+        "Enrollment_Code": "SA/3/26/25862",
+        "bootcamp_id": "Bt1"
+    },
+    {
+        "student_course_id": "sc7",
+        "course_id": "c7",
+        "Student_Id": "123",
+        "Batch": "bh7",
+        "status": "yet to start",
+        "Enrollment_Code": "SA/3/26/25863",
+        "bootcamp_id": "Bt1"
+    },
+    {
+        "student_course_id": "sc8",
+        "Batch": "bh8",
+        "Student_Id": "456",
+        "status": "completed",
+        "Enrollment_Code": "LA/6/26/25863",
+        "bootcamp_id": "Bt2",
+        "course_id": "c1"
+    },
+    {
+        "student_course_id": "sc9",
+        "Batch": "bh9",
+        "Student_Id": "135",
+        "status": "coontinue",
+        "Enrollment_Code": "LA/6/26/25864",
+        "bootcamp_id": "Bt3",
+        "course_id": "c2"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "assignment_id": "As1",
+        "student_course_id": "sc1",
+        "Assignment Name": "Weekly Exercises on How to draft a compelling offer",
+        "Assignment Code": "74554",
+        "Date of submission": "23 Feb,2023 23:59",
+        "No.of Excercises": "1",
+        "Submit(Y/N)": "Y",
+        "Result": "10/10"
+    },
+    {
+        "assignment_id": "As2",
+        "student_course_id": "sc1",
+        "Assignment Name": "Weekly Exercises on Becoming a Freelance Champion",
+        "Assignment Code": "79269",
+        "Date of submission": "01 Mar,2023 23:59",
+        "No.of Excercises": "1",
+        "Submit(Y/N)": "Y",
+        "Result": "10/10"
+    },
+    {
+        "assignment_id": "As3",
+        "student_course_id": "sc1",
+        "Assignment Name": "Weekly Exercise on Being a Freelance Champion",
+        "Assignment Code": "81304",
+        "Date of submission": "08 Mar,2023 23:59",
+        "No.of Excercises": "2",
+        "Submit(Y/N)": "Y",
+        "Result": "19/20"
+    },
+    {
+        "assignment_id": "As4",
+        "student_course_id": "sc1",
+        "Assignment Name": "Weekly Exercises on How to Grow Your Social Media Followers",
+        "Assignment Code": "83817",
+        "Date of submission": "15 Mar,2023 23:59",
+        "No.of Excercises": "2",
+        "Submit(Y/N)": "Y",
+        "Result": "20/20"
+    },
+    {
+        "assignment_id": "As5",
+        "student_course_id": "sc1",
+        "Assignment Name": "Weekly Exercises on How to Pitch Clients on Social Media",
+        "Assignment Code": "87367",
+        "Date of submission": "22 Mar,2023 23:59",
+        "No.of Excercises": "2",
+        "Submit(Y/N)": "Y",
+        "Result": "18/20"
+    },
+    {
+        "assignment_id": "As6",
+        "student_course_id": "sc1",
+        "Assignment Name": "Weekly Exercises on how to draft legal documents 1",
+        "Assignment Code": "87368",
+        "Date of submission": "29 Mar,2023 23:59",
+        "No.of Excercises": "1",
+        "Status": "Pending",
+        "Result": ""
+    },
+    {
+        "assignment_id": "As7",
+        "student_course_id": "sc1",
+        "Assignment Name": "Weekly Exercises on how to draft legal documents 2",
+        "Assignment Code": "87369",
+        "Date of submission": "05 Apr,2023 23:59",
+        "No.of Excercises": "1",
+        "Submit(Y/N)": "N",
+        "Result": ""
+    },
+    {
+        "assignment_id": "As8",
+        "student_course_id": "sc8",
+        "Assignment Name": "Weekly Exercises on How to draft a compelling offer",
+        "Assignment Code": "67892",
+        "Date of submission": "22 June,2023 23:59",
+        "No.of Excercises": "1",
+        "Submit(Y/N)": "Y",
+        "Result": "09/10"
+    },
+    {
+        "assignment_id": "As9",
+        "student_course_id": "sc8",
+        "Assignment Name": "Weekly Exercises on Becoming a Freelance Champion",
+        "Assignment Code": "67893",
+        "Date of submission": "29/06/2023 23:59:00",
+        "No.of Excercises": "2",
+        "Submit(Y/N)": "Y",
+        "Result": "18/20"
+    },
+    {
+        "assignment_id": "As10",
+        "student_course_id": "sc8",
+        "Assignment Name": "Weekly Exercise on Being a Freelance Champion",
+        "Assignment Code": "67894",
+        "Date of submission": "6 July,2023 23:59",
+        "No.of Excercises": "1",
+        "Submit(Y/N)": "Y",
+        "Result": "10/10"
+    },
+    {
+        "assignment_id": "As11",
+        "student_course_id": "sc8",
+        "Assignment Name": "Weekly Exercises on How to Grow Your Social Media Followers",
+        "Assignment Code": "67895",
+        "Date of submission": "13 July, 2023",
+        "No.of Excercises": "1",
+        "Submit(Y/N)": "N",
+        "Result": ""
+    },
+    {
+        "assignment_id": "As12",
+        "student_course_id": "sc9",
+        "Assignment Name": "Weekly Excercise on Advanced Civil Litigation",
+        "Assignment Code": "67896",
+        "Date of submission": "24/12/2023",
+        "No.of Excercises": "2",
+        "Submit(Y/N)": "Y",
+        "Result": "20/20"
+    },
+    {
+        "assignment_id": "As13",
+        "student_course_id": "sc9",
+        "Assignment Name": "weekly excercise on  Civil Litigation: Practice",
+        "Assignment Code": "67897",
+        "Date of submission": "07/01/2024",
+        "No.of Excercises": "3",
+        "Submit(Y/N)": "Y",
+        "Result": "29/30"
+    },
+    {
+        "assignment_id": "As14",
+        "student_course_id": "sc9",
+        "Assignment Name": "Weeekly Excercise on  Civil Litigation: Procedure",
+        "Assignment Code": "67898",
+        "Date of submission": "14/01/2024",
+        "No.of Excercises": "2",
+        "Submit(Y/N)": "Y",
+        "Result": "18/20"
+    },
+    {
+        "assignment_id": "As15",
+        "student_course_id": "sc9",
+        "Assignment Name": "Weekly Excercise on Civil Litigation Drafting",
+        "Assignment Code": "67899",
+        "Date of submission": "28/01/2024",
+        "No.of Excercises": "2",
+        "Submit(Y/N)": "Y",
+        "Result": "20/20"
+    },
+    {
+        "assignment_id": "As16",
+        "student_course_id": "sc9",
+        "Assignment Name": "Certificate Course in Advanced Civil Litigation: Practice,Procedure and Drafting",
+        "Assignment Code": "67900",
+        "Date of submission": "11/02/2024",
+        "No.of Excercises": "3",
+        "Submit(Y/N)": "N",
+        "Result": ""
+    }
+]

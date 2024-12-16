@@ -1,0 +1,562 @@
+[
+    {
+        "Student_Id": "123",
+        "event": "CommunicationDetails for attending Bootcamp1",
+        "category": "CommunicationDetailsDetails",
+        "date": "01/15/2023",
+        "time": "10:17:38",
+        "status": "Completed"
+    },
+    {
+        "Student_Id": "123",
+        "event": "attend 10 Writing CourseDetails,Diploma in Advanced Contract Drafting, Negotiation and Dispute Resolution Bootcamp1",
+        "category": "CourseDetailsDetails",
+        "date": "01/15/2023",
+        "time": "14:00:00",
+        "status": "success"
+    },
+    {
+       "Student_Id": "123",
+        "event": "CommunicationDetails for attending Bootcamp2",
+        "category": "CommunicationDetailsDetails",
+        "date": "01/16/2023",
+        "time": "10:16:59",
+        "status": "Completed"
+    },
+    {
+        "Student_Id": "123",
+        "event": "attend 10 Writing CourseDetails,Diploma in Advanced Contract Drafting, Negotiation and Dispute Resolution Bootcamp2",
+        "category": "CourseDetailsDetails",
+        "date": "01/16/2023",
+        "time": "14:00:00",
+        "status": "success"
+    },
+    {
+        "Student_Id": "123",
+        "event": "downpayment",
+        "category": "PaymentDetails",
+        "date": "01/16/2023",
+        "time": "12:13:45",
+        "status": "success"
+    },
+    {
+        "Student_Id": "123",
+        "event": "attend 10 Writing CourseDetails,Diploma in Advanced Contract Drafting, Negotiation and Dispute Resolution Bootcamp3",
+        "category": "CourseDetailsDetails",
+        "date": "17/01/2023",
+        "time": "14:00:00",
+        "status": "success"
+    },
+    {
+        "Student_Id": "123",
+        "event": "1st instalment",
+        "category": "PaymentDetails",
+        "date": "02/08/2023",
+        "time": "12:13:45",
+        "status": "success"
+    },
+    {
+        "Student_Id": "123",
+        "event": "onboarding of 'Training Program of AI for Business Growth'",
+        "category": "CourseDetailsDetails",
+        "date": "02/15/2023",
+        "time": "20:00:00",
+        "status": "success"
+    },
+    {
+        "Student_Id": "123",
+        "event": "Fill personal information",
+        "category": "StudentRecord",
+        "date": "02/16/2023",
+        "time": "08:30:15",
+        "status": "incomplete"
+    },
+    {
+        "Student_Id": "123",
+        "event": "1st class",
+        "category": "CourseDetailsDetails",
+        "date": "02/16/2023",
+        "time": "20:00:00",
+        "status": "success"
+    },
+    {
+        "Student_Id": "123",
+        "event": "updated email_id",
+        "category": "StudentRecord",
+        "date": "02/17/2023",
+        "time": "14:05:23",
+        "status": "completed"
+    },
+    {
+        "Student_Id": "123",
+        "event": "add PAN and Aadhar card",
+        "category": "StudentRecord",
+        "date": "02/18/2023",
+        "time": "16:25:34",
+        "status": "completed"
+    },
+    {
+        "Student_Id": "123",
+        "event": "One on One Session",
+        "category": "StudentRecord",
+        "date": "02/20/2023",
+        "time": "11:00:00",
+        "status": "scheduled"
+    },
+    {
+        "Student_Id": "123",
+        "event": "2nd class",
+        "category": "CourseDetailsDetails",
+        "date": "02/23/2023",
+        "time": "20:00:00",
+        "status": "success"
+    },
+    {
+       "Student_Id": "123",
+        "event": "1st AssignmentDetails submission",
+        "category": "CourseDetailsDetails",
+        "date": "02/27/2023",
+        "time": "22:00:30",
+        "status": "success"
+    },
+    {
+        "Student_Id": "123",
+        "event": "3rd class",
+        "category": "CourseDetailsDetails",
+        "date": "03/01/2023",
+        "time": "20:00:00",
+        "status": "success"
+    },
+    {
+        "Student_Id": "123",
+        "event": "2nd AssignmentDetails submission",
+        "category": "CourseDetailsDetails",
+        "date": "03/03/2023",
+        "time": "10:30:28",
+        "status": "success"
+    },
+    {
+        "Student_Id": "123",
+        "event": "One on One Session",
+        "category": "StudentRecord",
+        "date": "03/04/2023",
+        "time": "13:30:00",
+        "status": "completed"
+    },
+    {
+        "Student_Id": "123",
+        "event": "2nd Installment",
+        "category": "PaymentDetails",
+        "date": "03/07/2023",
+        "time": "14:36:19",
+        "status": "failed"
+    },
+    {
+        "Student_Id": "123",
+        "event": "Installment failed",
+        "category": "CommunicationDetailsDetails",
+        "date": "03/08/2023",
+        "time": "10:16:59",
+        "status": "completed"
+    },
+    {
+        "Student_Id": "123",
+        "event": "4th class",
+        "category": "CourseDetailsDetails",
+        "date": "03/08/2023",
+        "time": "20:00:00",
+        "status": "Absent"
+    },
+    {
+        "Student_Id": "123",
+        "event": "full payment",
+        "category": "PaymentDetails",
+        "date": "03/10/2023",
+        "time": "15:30:46",
+        "status": "success"
+    },
+    {
+        "Student_Id": "123",
+        "event": "Group Session",
+        "category": "StudentRecord",
+        "date": "03/12/2023",
+        "time": "14:00:00",
+        "status": "completed"
+    },
+    {
+        "Student_Id": "123",
+        "event": "3rd AssignmentDetails submission",
+        "category": "CourseDetailsDetails",
+        "date": "12/03/2023",
+        "time": "22:00:40",
+        "status": "success"
+    },
+    {
+        "Student_Id": "123",
+        "event": "internship OpportunityDetails",
+        "category": "OpportunityDetailsDetails",
+        "date": "03/14/2023",
+        "time": "11:30:00",
+        "status": "cv submitted"
+    },
+    {
+        "Student_Id": "123",
+        "event": "5th class",
+        "category": "CourseDetailsDetails",
+        "date": "03/15/2023",
+        "time": "20:00:00",
+        "status": "postponed"
+    },
+    {
+        "Student_Id": "123",
+        "event": "internship OpportunityDetails",
+        "category": "OpportunityDetailsDetails",
+        "date": "03/17/2023",
+        "time": "13:00:00",
+        "status": "interview done"
+    },
+    {
+        "Student_Id": "123",
+        "event": "5th class",
+        "category": "CourseDetailsDetails",
+        "date": "03/17/2023",
+        "time": "20:00:00",
+        "status": "success"
+    },
+    {
+        "Student_Id": "123",
+        "event": "Accept internship",
+        "category": "OpportunityDetailsDetails",
+        "date": "03/20/2023",
+        "time": "13:00:00",
+        "status": "Accepted"
+    },
+    {
+        "Student_Id": "123",
+        "event": "4th AssignmentDetails",
+        "category": "CourseDetailsDetails",
+        "date": "03/21/2023",
+        "time": "15:23:45",
+        "status": "success"
+    },
+    {
+        "Student_Id": "123",
+        "event": "join internship",
+        "category": "OpportunityDetailsDetails",
+        "date": "03/22/2023",
+        "time": "10:00:00",
+        "status": "Joined"
+    },
+{
+    "Student_Id": "24",
+    "event": "Test",
+    "category": "CommunicationDetailsDetails",
+    "date": "15/01/2023",
+    "time": "10:17:38",
+    "status": "Completed"
+},
+{
+    "Student_Id": "456",
+    "event": "CommunicationDetails for attending Bootcamp1",
+    "category": "CommunicationDetails",
+    "date": "11/28/2023",
+    "time": "10:17:38",
+    "status": "Completed"
+},
+{
+    "Student_Id": "456",
+    "event": "attend Certificate CourseDetails in Advanced Civil Litigation: Practice,Procedure and Drafting Bootcamp1",
+    "category": "CourseDetails",
+    "date": "06/02/2023",
+    "time": "14:00:00",
+    "status": "success"
+},
+{
+    "Student_Id": "456",
+    "event": "CommunicationDetails for attending Bootcamp2",
+    "category": "CommunicationDetails",
+    "date": "06/02/2023",
+    "time": "10:16:59",
+    "status": "Completed"
+},
+{
+    "Student_Id": "456",
+    "event": "attend Certificate CourseDetails in Advanced Civil Litigation: Practice,Procedure and DraftingBootcamp2",
+    "category": "CourseDetails",
+    "date": "06/03/2023",
+    "time": "14:00:00",
+    "status": "success"
+},
+{
+    "Student_Id": "456",
+    "event": "downpayment",
+    "category": "PaymentDetails",
+    "date": "06/03/2023",
+    "time": "12:13:45",
+    "status": "success"
+},
+{
+    "Student_Id": "456",
+    "event": "attend  Certificate CourseDetails in Advanced Civil Litigation: Practice,Procedure and Drafting Bootcamp3",
+    "category": "CourseDetails",
+    "date": "06/04/2023",
+    "time": "14:00:00",
+    "status": "success"
+},
+{
+    "Student_Id": "456",
+    "event": "1st instalment",
+    "category": "PaymentDetails",
+    "date": "06/10/2023",
+    "time": "12:13:45",
+    "status": "success"
+},
+{
+    "Student_Id": "456",
+    "event": "onboarding of  'Training Program of AI for Business Growth'",
+    "category": "CourseDetails",
+    "date": "06/15/2023",
+    "time": "20:00:00",
+    "status": "success"
+},
+{
+    "Student_Id": "456",
+    "event": "Fill personal information ",
+    "category": "StudentRecord",
+    "date": "06/16/2023",
+    "time": "08:30:15",
+    "status": "incomplete"
+},
+{
+    "Student_Id": "456",
+    "event": "1st class",
+    "category": "CourseDetails",
+    "date": "06/16/2023",
+    "time": "20:00:00",
+    "status": "success"
+},
+{
+    "Student_Id": "456",
+    "event": "updated email_id",
+    "category": "StudentRecord",
+    "date": "06/17/2023",
+    "time": "14:05:23",
+    "status": "completed"
+},
+{
+    "Student_Id": "456",
+    "event": "add PAN and Aadhar card",
+    "category": "StudentRecord",
+    "date": "06/18/2023",
+    "time": "16:25:34",
+    "status": "completed"
+},
+{
+    "Student_Id": "456",
+    "event": "One on One Session",
+    "category": "MentoringSessions",
+    "date": "06/20/2023",
+    "time": "11:00:00",
+    "status": "scheduled"
+},
+{
+    "Student_Id": "456",
+    "event": "1st AssignmentDetails submission",
+    "category": "AssignmentDetails",
+    "date": "06/22/2023",
+    "time": "19:00:00",
+    "status": "success"
+},
+{
+    "Student_Id": "456",
+    "event": "2nd class",
+    "category": "CourseDetails",
+    "date": "06/22/2023",
+    "time": "20:00:00",
+    "status": "success"
+},
+{
+    "Student_Id": "456",
+    "event": "2nd AssignmentDetails submission",
+    "category": "AssignmentDetails",
+    "date": "06/29/2023",
+    "time": "10:30:28",
+    "status": "success"
+},
+{
+    "Student_Id": "456",
+    "event": "One on One Session",
+    "category": "MentoringSessions",
+    "date": "06/29/2023",
+    "time": "13:30:00",
+    "status": "completed"
+},
+{
+    "Student_Id": "456",
+    "event": "3rd class",
+    "category": "CourseDetails",
+    "date": "06/29/2023",
+    "time": "20:00:00",
+    "status": "success"
+},
+{
+    "Student_Id": "456",
+    "event": "2nd Installment",
+    "category": "PaymentDetails",
+    "date": "07/05/2023",
+    "time": "14:36:19",
+    "status": "success"
+},
+{
+    "Student_Id": "456",
+    "event": "3rd AssignmentDetails submission",
+    "category": "AssignmentDetails",
+    "date": "07/06/2023",
+    "time": "11:00:00",
+    "status": "completed"
+},
+{
+    "Student_Id": "456",
+    "event": "4th class",
+    "category": "CourseDetails",
+    "date": "07/06/2023",
+    "time": "20:00:00",
+    "status": "completed"
+},
+{
+    "Student_Id": "456",
+    "event": "Regarding payment",
+    "category": "PaymentDetails",
+    "date": "07/07/2023",
+    "time": "15:30:46",
+    "status": "success"
+},
+{
+    "Student_Id": "456",
+    "event": "Group Session",
+    "category": "MentoringSessions",
+    "date": "07/10/2023",
+    "time": "14:00:00",
+    "status": "completed"
+},
+{
+    "Student_Id": "456",
+    "event": "4th AssignmentDetails submission",
+    "category": "AssignmentDetails",
+    "date": "07/12/2023",
+    "time": "22:00:40",
+    "status": "sucess"
+},
+{
+    "Student_Id": "456",
+    "event": "CV creation",
+    "category": "CommunicationDetails",
+    "date": "07/12/2023",
+    "time": "11:30:00",
+    "status": "cv submitted"
+},
+{
+    "Student_Id": "456",
+    "event": "5th class",
+    "category": "CourseDetails",
+    "date": "07/13/2023",
+    "time": "20:00:00",
+    "status": "postponed"
+},
+{
+    "Student_Id": "456",
+    "event": "one-to-one session",
+    "category": "MentoringSessions",
+    "date": "07/15/2023",
+    "time": "13:00:00",
+    "status": "interview done"
+},
+{
+    "Student_Id": "456",
+    "event": "upwork StudentRecord",
+    "category": "CommunicationDetails",
+    "date": "07/20/2023",
+    "time": "12:10:45",
+    "status": "success"
+},
+{
+    "Student_Id": "456",
+    "event": "shortlisted for Internship",
+    "category": "OpportunityDetails",
+    "date": "07/20/2023",
+    "time": "13:00:00",
+    "status": "Accepted"
+},
+{
+    "Student_Id": "456",
+    "event": "job search",
+    "category": "CommunicationDetails",
+    "date": "09/10/2023",
+    "time": "14:12:34",
+    "status": "sucess"
+},
+{
+    "Student_Id": "456",
+    "event": "shortlisted for Internship",
+    "category": "OpportunityDetails",
+    "date": "09/13/2023",
+    "time": "10:15:38",
+    "status": "sucess"
+},
+{
+    "Student_Id": "456",
+    "event": "shortlisted for job",
+    "category": "OpportunityDetails",
+    "date": "10/25/2023",
+    "time": "11:25:00",
+    "status": "sucess"
+},
+{
+    "Student_Id": "456",
+    "event": "Regarding interview ",
+    "category": "OpportunityDetails",
+    "date": "10/26/2023",
+    "time": "12:25:00",
+    "status": "sucess"
+},
+{
+    "Student_Id": "456",
+    "event": "Mock interview ",
+    "category": "OpportunityDetails",
+    "date": "10/28/2023",
+    "time": "13:25:00",
+    "status": "sucess"
+},
+{
+    "Student_Id": "456",
+    "event": "1st salary",
+    "category": "EarningDetails",
+    "date": "12/01/2023",
+    "time": "10:15:38",
+    "status": "sucess"
+},
+{
+    "Student_Id": "456",
+    "event": "2nd salary",
+    "category": "EarningDetails",
+    "date": "01/01/2024",
+    "time": "11:25:00",
+    "status": "sucess"
+},
+{
+    "Student_Id": "456",
+    "event": "3rd salary",
+    "category": "EarningDetails",
+    "date": "02/01/2024",
+    "time": "12:25:00",
+    "status": "sucess"
+},
+{
+    "Student_Id": "456",
+    "event": "4th salary",
+    "category": "EarningDetails",
+    "date": "03/01/2024",
+    "time": "13:25:00",
+    "status": "sucess"
+}
+]

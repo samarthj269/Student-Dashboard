@@ -1,0 +1,84 @@
+[
+    {
+        "jd_id": "JD1",
+        "Job Description": "xyz",
+        "company_id": "CM1",
+        "Stipend/Salary(Annually)": "120000",
+        "number_of_position": "2",
+        "opportunity_name": "internship",
+        "outreach_person_name" : "Sailaxmi Sahu"
+    },
+    {
+        "jd_id": "JD2",
+        "Job Description": "abc",
+        "company_id": "CM2",
+        "Stipend/Salary(Annually)": "240000",
+        "number_of_position": "1",
+        "opportunity_name": "Job",
+        "outreach_person_name" : "Huma"
+    },
+    {
+        "jd_id": "JD3",
+        "Job Description": "efg",
+        "company_id": "CM3",
+        "Stipend/Salary(Annually)": "216000",
+        "number_of_position": "3",
+        "opportunity_name": "Internship",
+        "outreach_person_name" : "Shreya"
+    },
+    {
+        "jd_id": "JD4",
+        "Job Description": "asd",
+        "company_id": "CM1",
+        "Stipend/Salary(Annually)": "220000",
+        "number_of_position": "4",
+        "opportunity_name": "Internship",
+        "outreach_person_name" : "Sailaxmi Sahu"
+    },
+    {
+        "jd_id": "JD5",
+        "Job Description": "ghj",
+        "company_id": "CM3",
+        "Stipend/Salary(Annually)": "150000",
+        "number_of_position": "3",
+        "opportunity_name": "Internship",
+        "outreach_person_name" : "Shreya"
+    },
+    {
+        "jd_id": "JD4",
+        "Job Description": "asd",
+        "company_id": "CM1",
+        "Stipend/Salary(Annually)": "220000",
+        "number_of_position": "4",
+        "opportunity_name": "Internship",
+        "outreach_person_name" : "Sailaxmi Sahu"
+    },
+    {
+        "jd_id": "JD5",
+        "Job Description": "ghj",
+        "company_id": "CM3",
+        "Stipend/Salary(Annually)": "150000",
+        "number_of_position": "3",
+        "opportunity_name": "Internship",
+        "outreach_person_name" : "Shreya"
+    },
+    {
+        "jd_id": "JD6",
+        "Job Description": "gjkg",
+        "company_id": "CM4",
+        "Stipend/Salary(Annually)": "360000",
+        "number_of_position": "2",
+        "opportunity_name": "Job",
+        "outreach_person_name" : "Huma"
+    },
+    {
+        "jd_id": "JD7",
+        "Job Description": "legal reasearch, draft ",
+        "company_id": "CM5",
+        "Stipend/Salary(Annually)": "6000/3 hrs",
+        "number_of_position": "2",
+        "opportunity_name": "Internship",
+        "outreach_person_name" : "Shreya"
+
+    }
+]

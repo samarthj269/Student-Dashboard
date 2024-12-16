@@ -1,0 +1,61 @@
+[ {
+    
+        "course_id": "c1",
+        "Courses": "OLD - Certificate Course in Advanced Criminal Litigation & Trial Advocacy",
+        "description": "NA",
+        "brand_id": "b1",
+        "Course Duration": "6 months",
+        "Fee": "66,000"
+    },
+    {
+        "course_id": "c2",
+        "Courses": "Certificate Course in Advanced Civil Litigation: Practice,Procedure and Drafting",
+        "description": "NA",
+        "brand_id": "b1",
+        "Course Duration": "2 months",
+        "Fee": ""
+    },
+    {
+        "course_id": "c3",
+        "Courses": "Lord of the courses (judiciary test prep)",
+        "description": "NA",
+        "brand_id": "b1",
+        "Course Duration": "6 months",
+        "Fee": ""
+    }
+   ,
+    {
+        "course_id": "c4",
+        "Courses": "Diploma in Legal English Communication - oratory, writing, listening and accuracy",
+        "description": "NA",
+        "brand_id": "b1",
+        "Course Duration": "6 months",
+        "Fee": ""
+    },
+    {
+        "course_id": "c5",
+        "Courses": " UGC NET/JRF (Law) - A Roadmap to Excellence in Academia",
+        "description": "NA",
+        "brand_id": "b1",
+        "Course Duration": "2 months",
+        "Fee": ""
+    },
+    {
+        "course_id": "c6",
+        "Courses": "Bank Law Officer Exam - Preparation Course,Diploma in Legal English Communication - oratory, writing, listening and accuracy",
+        "description": "NA",
+        "brand_id": "b1",
+        "Course Duration": "4 months",
+        "Fee": ""
+    },
+    {
+        "course_id": "c7",
+        "Courses": "Comprehensive LLM Entrance Exam Package: CLAT-PG, AILET (NLU-D), CUET PG LLM and State University LLM Entrance Exams",
+        "description": "NA",
+        "brand_id": "b1",
+        "Course Duration": "4 months",
+        "Fee": ""
+    }
+    
+    
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "Student_Id": "123",
+        "Name": "Harshit Bajpai",
+        "Gender": "Male",
+        "LinkedIn_Id": "",
+        "Email_Id": "",
+        "Contact_No.": "",
+        "University Name": "Allahabad University",
+        "Qualification": "LLB",
+        "cv_Name": "Cover letter & CV - Viraj Sadvilkar.pdf",
+        "CV_Link" : "",
+       
+        "Brand" : "Law Sikho" 
+    },
+    {
+        "Student_Id": "456",
+        "Name": "Anushka Pandey",
+        "Gender": "Female",
+        "Email_Id": "",
+        "Contact_No.": "",
+        "LinkedIn_Id": "",
+        "University Name": "NA",
+        "Qualification": "NA",
+        "CV_Link": "",
+        
+        "Brand": "b1"
+    },
+    {
+        "Student_Id": "135",
+        "Name": "Mahima Yadav",
+        "Gender": "Female",
+        "Email_Id": "",
+        "Contact_No.": "",
+        "LinkedIn_Id": "",
+        "University Name": "NA",
+        "Qualification": "NA",
+        "CV_Link": "",
+        
+        "Brand": "b1"
+    }
+]

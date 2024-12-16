@@ -1,0 +1,35 @@
+[
+    {
+        "loan_id": "ln1",
+        "partner_id": "pa1",
+        "fee_id": "F1",
+        "student_course_id": "sc1",
+        "loan_amount ": "60000",
+        "loan_tennure(months)": "18",
+        "emi": "3334",
+        "gst": "",
+        "status": "Inprogress"
+    },
+    {
+        "loan_id": "ln2",
+        "partner_id": "pa1",
+        "fee_id": "F1",
+        "student_course_id": "sc8",
+        "loan_amount ": "60000",
+        "loan_tennure(months)": "18",
+        "emi": "3334",
+        "gst": "",
+        "status": "Inprogress"
+    },
+    {
+        "loan_id": "ln3",
+        "partner_id": "pa2",
+        "fee_id": "F2",
+        "student_course_id": "sc9",
+        "loan_amount ": "57000",
+        "loan_tennure(months)": "15",
+        "emi": "3800",
+        "gst": "0",
+        "status": "Inprogress"
+    }
+]

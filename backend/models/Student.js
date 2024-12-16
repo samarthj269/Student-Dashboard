@@ -1,0 +1,55 @@
+const mongoose = require('mongoose');
+
+const studentSchema = new mongoose.Schema({
+    Name: { type: String, required: true },
+    Gender: { type: String, required: true },
+    LinkedIn_Id: { type: String },
+    Email_Id: { type: String, unique: true, required: true }, // Make email unique and required
+    Contact_No: { type: String },
+    University_Name: { type: String },
+    Qualification: { type: String },
+    Bootcamp: { type: String },
+    Courses: { type: String },
+    Brand: { type: String },
+    Enrollment_Code: { type: String },
+    Batch: { type: String },
+    opportunity_name: { type: String },
+    Position: { type: String },
+    Offer_status: { type: String },
+    Type: { type: String },
+    Company: { type: String },
+    Organisation_Category: { type: String },
+    Type_of_Company: { type: String },
+    Month_of_Success: { type: String },
+    Month_Of_Joining: { type: String },
+    Legal_Non_Legal: { type: String },
+    Stipend_P_U: { type: String },
+    Stipend_Salary_Amount: { type: Number },
+    Stipend_Conditional_Payment: { type: String },
+    Mentor: { type: String },
+    Type_of_Session: { type: String },
+    Topic: { type: String },
+    Date_of_Session: { type: Date },
+    Start_Time: { type: String },
+    End_Time: { type: String },
+    Meeting_Duration: { type: String },
+    Session_Sub_Type: { type: String },
+    Status: { type: String },
+    Session_ID: { type: String },
+    Scheduler_Email_ID: { type: String },
+    Mentor_Email_ID: { type: String },
+    Domestic_International: { type: String },
+    Country: { type: String },
+    Date: { type: Date },  // Changed to Date type
+    Start_Time_Calls: { type: String },
+    Caller: { type: String },
+    From: { type: String },
+    Call_Duration: { type: String },
+    Call_Type: { type: String },
+    Campaign: { type: String },
+    Call_Status: { type: String },
+}, { timestamps: true });
+
+const Student = mongoose.model('Student', studentSchema);
+
+module.exports = Student;

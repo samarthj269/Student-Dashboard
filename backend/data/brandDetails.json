@@ -1,0 +1,20 @@
+[
+    {
+        "brand_id": "b1",
+        "brand": "LawSikho",
+        "domain": "Legal Education and Professional Training",
+        "url": "https://lawsikho.com/"
+    },
+    {
+        "brand_id": "b2",
+        "brand": "SkillArbitrage",
+        "domain": "Education,Talent, outsourcing, remote work.",
+        "url": "https://skillarbitra.ge/"
+    },
+    {
+        "brand_id": "b3",
+        "brand": "DIG",
+        "domain": "Education on Data insights and analytics.",
+        "url": "https://dataisgood.com/"
+    }
+]

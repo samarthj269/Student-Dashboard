@@ -1,0 +1,203 @@
+[
+    {
+        "student_course_id": "sc1",
+        "course_id": "c1",
+        "Student_Id": "123",
+        "Batch": "bh1",
+        "status": "completed",
+        "Enrollment_Code": "SA/3/26/25857",
+        "bootcamp_id": "Bt1"
+    },
+    {
+        "student_course_id": "sc2",
+        "course_id": "c2",
+        "Student_Id": "123",
+        "Batch": "bh2",
+        "status": "continue",
+        "Enrollment_Code": "SA/3/26/25858",
+        "bootcamp_id": "Bt1"
+    },
+    {
+        "student_course_id": "sc3",
+        "course_id": "c3",
+        "Student_Id": "123",
+        "Batch": "bh3",
+        "status": "pause",
+        "Enrollment_Code": "SA/3/26/25859",
+        "bootcamp_id": "Bt1"
+    },
+    {
+        "student_course_id": "sc4",
+        "course_id": "c4",
+        "Student_Id": "123",
+        "Batch": "bh4",
+        "status": "pause",
+        "Enrollment_Code": "SA/3/26/25860",
+        "bootcamp_id": "Bt1"
+    },
+    {
+        "student_course_id": "sc5",
+        "course_id": "c5",
+        "Student_Id": "123",
+        "Batch": "bh5",
+        "status": "continue",
+        "Enrollment_Code": "SA/3/26/25861",
+        "bootcamp_id": "Bt1"
+    },
+    {
+        "student_course_id": "sc6",
+        "course_id": "c6",
+        "Student_Id": "123",
+        "Batch": "bh6",
+        "status": "pause",
+        "Enrollment_Code": "SA/3/26/25862",
+        "bootcamp_id": "Bt1"
+    },
+    {
+        "student_course_id": "sc7",
+        "course_id": "c7",
+        "Student_Id": "123",
+        "Batch": "bh7",
+        "status": "yet to start",
+        "Enrollment_Code": "SA/3/26/25863",
+        "bootcamp_id": "Bt1"
+    },
+
+    {
+        "batch_id": "bh1",
+        "Batch": "Jan, 2023",
+        "course_id": "c1"
+    },
+    {
+        "batch_id": "bh2",
+        "Batch": "Apr, 2023",
+        "course_id": "c2"
+    },
+    {
+        "batch_id": "bh3",
+        "Batch": "Jun, 2023",
+        "course_id": "c3"
+    },
+    {
+        "batch_id": "bh4",
+        "Batch": "Dec, 2023",
+        "course_id": "c4"
+    },
+    {
+        "batch_id": "bh5",
+        "Batch": "May, 2024",
+        "course_id": "c5"
+    },
+    {
+        "batch_id": "bh6",
+        "Batch": "Jul, 2024",
+        "course_id": "c6"
+    },
+    {
+        "batch_id": "bh7",
+        "Batch": "Nov, 2024",
+        "course_id": "c7"
+    },
+    {
+        "course_id": "c1",
+        "Courses": "OLD - Certificate Course in Advanced Criminal Litigation & Trial Advocacy",
+        "description": "NA",
+        "Brand": "b1",
+        "Course Duration": "6 months",
+        "Fee": "66,000"
+    },
+    {
+        "course_id": "c2",
+        "Courses": "Certificate Course in Advanced Civil Litigation: Practice,Procedure and Drafting",
+        "description": "NA",
+        "Brand": "b1",
+        "Course Duration": "2 months",
+        "Fee": ""
+    },
+    {
+        "course_id": "c3",
+        "Courses": "Lord of the courses (judiciary test prep)",
+        "description": "NA",
+        "Brand": "b1",
+        "Course Duration": "6 months",
+        "Fee": ""
+    },
+    {
+        "course_id": "c4",
+        "Courses": "Diploma in Legal English Communication - oratory, writing, listening and accuracy",
+        "description": "NA",
+        "Brand": "b1",
+        "Course Duration": "6 months",
+        "Fee": ""
+    },
+    {
+        "course_id": "c5",
+        "Courses": " UGC NET/JRF (Law) - A Roadmap to Excellence in Academia",
+        "description": "NA",
+        "Brand": "b1",
+        "Course Duration": "2 months",
+        "Fee": ""
+    },
+    {
+        "course_id": "c6",
+        "Courses": "Bank Law Officer Exam - Preparation Course,Diploma in Legal English Communication - oratory, writing, listening and accuracy",
+        "description": "NA",
+        "Brand": "b1",
+        "Course Duration": "4 months",
+        "Fee": ""
+    },
+    {
+        "course_id": "c7",
+        "Courses": "Comprehensive LLM Entrance Exam Package: CLAT-PG, AILET (NLU-D), CUET PG LLM and State University LLM Entrance Exams",
+        "description": "NA",
+        "Brand": "b1",
+        "Course Duration": "4 months",
+        "Fee": ""
+    },
+    {
+        "bootcamp_id": "Bt1",	
+        "name":	"Bootcamp 10 Writing Course,Diploma in Advanced Contract Drafting, Negotiation and Dispute Resolution",
+        "date":	"15/01/2023",
+        "no.of days" : 	"3"
+			
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[
+    {
+        "student_course_id": "sc1",
+        "course_id": "c1",
+        "Student_Id": "123",
+        "Batch": "bh1",
+        "status": "completed",
+        "Enrollment_Code": "SA/3/26/25857",
+        "bootcamp_id": "Bt1"
+    }, 
+    {
+    
+        "batch_id": "bh1",
+        "Batch": "Jan, 2023",
+        "course_id": "c1"
+    },
+    {
+        "course_id": "c1",
+        "Courses": "OLD - Certificate Course in Advanced Criminal Litigation & Trial Advocacy",
+        "description": "NA",
+        "Brand": "b1",
+        "Course Duration": "6 months",
+        "Fee": "66,000"
+    }
+]

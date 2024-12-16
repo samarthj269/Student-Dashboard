@@ -1,0 +1,47 @@
+[
+    {
+        "company_id": "CM1",
+        "company_name": "rahul & jayshri associates & co",
+        "type_of_company": "Tier1",
+        "Organisation Category": "legal",
+        "spoc": "samarth",
+        "email_id": "samarth.dssf@acce.in",
+        "contact_number": "988764434232"
+    },
+    {
+        "company_id": "CM2",
+        "company_name": "amogha legal",
+        "type_of_company": "Tier 3",
+        "Organisation Category": "legal",
+        "spoc": "Sailaxmi",
+        "email_id": "sailaxmi.sddf@amogha.com",
+        "contact_number": "8989897766"
+    },
+    {
+        "company_id": "CM3",
+        "company_name": "sarn legal",
+        "type_of_company": "Tier 3",
+        "Organisation Category": "legal",
+        "spoc": "shweta",
+        "email_id": "shweta.hghh@sam.com",
+        "contact_number": "8899776655"
+    },
+    {
+        "company_id": "CM4",
+        "company_name": "namami law offices",
+        "type_of_company": "Tier 3",
+        "Organisation Category": "legal",
+        "spoc": "samarth",
+        "email_id": "samarth.dssf@acce.in",
+        "contact_number": "988764434232"
+    },
+    {
+        "company_id": "CM5",
+        "company_name": "PPL India",
+        "type_of_company": "Tier 2",
+        "Organisation Category": "Music Licensing and Copyright",
+        "spoc": "Huma",
+        "email_id": "huma@ppl.in",
+        "contact_number": "8989897766"
+    }
+]

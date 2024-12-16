@@ -1,0 +1,20 @@
+[
+    {
+        "skill_id": "sk1",
+        "Student_Id": "123",
+        "Brand": "b1",
+        "skills": "Data , Excel , Legal Research, CRPC , IPC "
+    },
+    {
+        "skill_id": "sk2",
+        "Student_Id": "456",
+        "Brand": "b1",
+        "skills": "Legal documatation, Legal Research, CRPC , IPC \""
+    },
+    {
+        "skill_id": "sk3",
+        "Student_Id": "135",
+        "Brand": "b1",
+        "skills": "Drafted legal documents.\nCourt Visits\nReal Estate Law\nClient Interaction\nLegal Research"
+    }
+]

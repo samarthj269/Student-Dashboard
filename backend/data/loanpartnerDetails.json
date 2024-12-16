@@ -1,0 +1,14 @@
+[
+    {
+        "partner_id": "pa1",
+        "partner_name": "abc",
+        "contact. no.": "9797979797",
+        "email_id": "abc@gmail.com"
+    },
+    {
+        "partner_id": "pa2",
+        "partner_name": "alpha corp",
+        "contact. no.": "8989776655",
+        "email_id": "alpha@alpha.in"
+    }
+]

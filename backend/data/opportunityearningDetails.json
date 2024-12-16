@@ -1,0 +1,32 @@
+[
+    {
+        "opportunity_id": "In1",
+        "opportunity_name": "Internship",
+        "Student_Id": "123",
+        "jd_id": "JD1",
+        "Position": "Not Available",
+        "Applied": "Y",
+        "Shortlisted": "Y",
+        "Offer status": "Accepted",
+        "Type": "Domestic Internal",
+        "Sucess": "Y",
+        "Month of Sucess": "Jul",
+        "Month Of Joining": "Aug",
+        "Legal/Non Legal": "legal"
+    },
+    {
+        "opportunity_id": "In6",
+        "opportunity_name": "Job",
+        "Student_Id": "456",
+        "jd_id": "JD6",
+        "Position": "Not Available",
+        "Applied": "Y",
+        "Shortlisted": "Y",
+        "Offer status": "Accepted",
+        "Type": "Domestic Internal",
+        "Sucess": "Y",
+        "Month of Sucess": "Nov",
+        "Month Of Joining": "Nov",
+        "Legal/Non Legal": "legal"
+    }
+]

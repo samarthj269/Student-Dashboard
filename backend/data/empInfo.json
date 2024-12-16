@@ -1,0 +1,46 @@
+[
+    {
+        "employee_id": "em1",
+        "full_name": "Rohit Kumar",
+        "email": "rohit@gmail.com",
+        "phone": "9999999999",
+        "designation": "",
+        "department": "",
+        "DOJ": "",
+        "reporting_manager": "",
+        "status": ""
+    },
+    {
+        "employee_id": "em2",
+        "full_name": "Saurabh Kumar Das",
+        "email": "saurabh@gmail.com",
+        "phone": "9898989898",
+        "designation": "",
+        "department": "",
+        "DOJ": "",
+        "reporting_manager": "",
+        "status": ""
+    },
+    {
+        "employee_id": "em3",
+        "full_name": "Priyanjali Biswas",
+        "email": "priyanjali@gmail.com",
+        "phone": "8787900989",
+        "designation": "",
+        "department": "",
+        "DOJ": "",
+        "reporting_manager": "",
+        "status": ""
+    },
+    {
+        "employee_id": "em4",
+        "full_name": "Nirupam",
+        "email": "nirupam@gmail.com",
+        "phone": "9798808088",
+        "designation": "",
+        "department": "",
+        "DOJ": "",
+        "reporting_manager": "",
+        "status": ""
+    }
+]

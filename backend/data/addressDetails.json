@@ -1,0 +1,38 @@
+[
+    {
+        "Address_id": "ad1",
+        "house_no": "flat no- 313",
+        "street_name": "Dasarahalli",
+        "city": "Amritsar",
+        "district": "Amritsar",
+        "state": "Punjab",
+        "pincode": "678945",
+        "country": "India",
+        "full_address": "flat no- 313,Dasarahalli,Amritsar,Amritsar,Punjab,678945,India",
+        "Student_Id": "123"
+    },
+    {
+        "Address_id": "ad2",
+        "house_no": "H.No-456",
+        "street_name": "salt lake",
+        "city": "Kolkata",
+        "district": "Kolkata",
+        "state": "West Bengal",
+        "pincode": "897645",
+        "country": "India",
+        "full_address": "H.No-456,salt lake,Kolkata,Kolkata,West Bengal,897645,India",
+        "Student_Id": "456"
+    },
+    {
+        "Address_id": "ad3",
+        "house_no": "H.No-123",
+        "street_name": "shakarnagar",
+        "city": "Bhagalpur",
+        "district": "Bhagalpur",
+        "state": "Bihar",
+        "pincode": "750097",
+        "country": "India",
+        "full_address": "H.No-123,shakarnagar,Bhagalpur,Bhagalpur,Bihar,750097,India",
+        "Student_Id": "135"
+    }
+]

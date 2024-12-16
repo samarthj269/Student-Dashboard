@@ -1,0 +1,31 @@
+[
+    {
+        "certification_id": "Cert1",
+        "student_course_id": "sc1",
+        "completed": "Y",
+        "% secured": "93",
+        "certication_date": "25/03/2023",
+        "course_completion_date": "25/03/2023"
+        
+    },
+    {
+        "certification_id": "Cert2",
+        "student_course_id": "sc1",
+        "completed": "N",
+        "% secured": "65",
+        "Certification_exam_date": "12/06/2023",
+        "certication_date": "",
+        "course_completion_date": "",
+        "Skill Acquired": ""
+    },
+    {
+        "certification_id": "Cert3",
+        "student_course_id": "sc8",
+        "completed": "N",
+        "% secured": "",
+        "Certification_exam_date": "",
+        "certication_date": "",
+        "course_completion_date": "",
+        "Skill Acquired": ""
+    }
+]

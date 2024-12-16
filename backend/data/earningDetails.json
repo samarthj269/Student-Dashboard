@@ -1,0 +1,18 @@
+[
+    {
+        "earning_id": "Er1",
+        "opportunity_id": "In1",
+        "Stipend(P/U)": "paid",
+        "Stipend/Salary Amount": "120000",
+        "Stipend(Conditional)Payment": "Not Available",
+        "Total_Earning": "30000"
+    },
+    {
+        "earning_id": "Er2",
+        "opportunity_id": "In6",
+        "Stipend(P/U)": "paid",
+        "Stipend/Salary Amount": "360000",
+        "Stipend(Conditional)Payment": "Not Available",
+        "Total_Earning": "390500"
+    }
+]
